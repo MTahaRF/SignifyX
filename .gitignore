@@ -1,0 +1,4 @@
+# Ignore large APKs and build files
+app/build/
+.gradle/
+
